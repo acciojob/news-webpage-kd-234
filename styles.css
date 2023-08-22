@@ -18,12 +18,30 @@
 .header{
 	display:flex;
 	color:white;
-	background-color:black;
+	background-color:#011e29;
 	width:auto;
 	height:80px;
 	justify-content:center;
 	align-items:center;
 	font-size:40px;
 		
+}
+.item1,ul,li,h3 {
+	
+	border-radius:10px;
+	background-color:white;
+	text-align:center;
+}
+.item2,h2,p{
+	
+	border-radius:10px;
+	background-color:white;
+	text-align:center;
+}
+.item3,h3,img{
+	
+	border-radius:10px;
+	background-color:white;
+	text-align:center;
 }
 
