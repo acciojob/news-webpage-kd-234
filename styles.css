@@ -4,42 +4,41 @@
 	margin:1px;
 	padding:5px;
 }
-.container{
 
-	display:flex;
-	justify-content:space-between;
-	
-	justify-content:center;
-	align-items:center;
-	
-	
-	
-}
 
 .header{
-	display:flex;
 	color:white;
 	background-color:#011e29;
 	width:auto;
 	height:80px;
-	justify-content:center;
-	align-items:center;
+	text-align:center;
 	font-size:40px;
 		
 }
-.item1,h3,ul,li{
+.container{
+
+	margin:20px;
+	display:flex;
+	justify-content:center;
+	align-items:start;
+	
+	
+	
+
+.item1{
+	display:flex;
 	
 	border-radius:10px;
 	background-color:white;
 	text-align:center;
 }
-.item2,h2,p{
+.item2{
 	
 	border-radius:10px;
 	background-color:white;
 	text-align:center;
 }
-.item3,h3,img{
+.item3{
 	
 	border-radius:10px;
 	background-color:white;
@@ -49,4 +48,4 @@
 	width:300px;
 	
 }
-
+}
