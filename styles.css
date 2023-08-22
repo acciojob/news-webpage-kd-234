@@ -9,7 +9,8 @@
 	display:flex;
 	justify-content:space-between;
 	
-	
+	justify-content:center;
+	align-items:center;
 	
 	
 	
@@ -26,7 +27,7 @@
 	font-size:40px;
 		
 }
-.item1,ul,li,h3 {
+.item1,h3,ul,li{
 	
 	border-radius:10px;
 	background-color:white;
@@ -43,5 +44,9 @@
 	border-radius:10px;
 	background-color:white;
 	text-align:center;
+}
+.image{
+	width:300px;
+	
 }
 
